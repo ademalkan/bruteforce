@@ -1,2 +1,2 @@
-# bruteforce
-Bruteforce Script
+# Bruteforce
+PHP ile Bruteforce Script
